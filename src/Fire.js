@@ -4,12 +4,12 @@ import firebase from 'firebase';
 import '@firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCKSbaUliODMxMLz_wBuF9dXOYBDb1d9xc",
-    authDomain: "todoapp-362d3.firebaseapp.com",
-    projectId: "todoapp-362d3",
-    storageBucket: "todoapp-362d3.appspot.com",
-    messagingSenderId: "584235051695",
-    appId: "1:584235051695:web:8b9fc8f87f16aac16fc25a",
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
 };
 
 class Fire {
